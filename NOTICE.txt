@@ -1,0 +1,8 @@
+This software is based on work by Meta Platforms, Inc. and affiliates.
+
+Original PyTorch implementation: https://github.com/facebookresearch/schedule_free
+
+Related paper: https://arxiv.org/abs/2405.15682  
+Authored by Aaron Defazio, Xingyu Yang, Harsh Mehta, Konstantin Mishchenko, Ahmed Khaled, and Ashok Cutkosky.
+
+TensorFlow adaptation by Shaked Eisenmann, 2025.
